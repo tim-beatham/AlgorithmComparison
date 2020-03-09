@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="AlgorithmComparison">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlgorithmComparison</output-path>
+    <root id="root">
+      <element id="archive" name="AlgorithmComparison.jar">
+        <element id="module-output" name="AlgorithmComparison" />
+      </element>
+    </root>
+  </artifact>
+</component>
